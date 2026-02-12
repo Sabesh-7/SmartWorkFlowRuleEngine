@@ -1,0 +1,9 @@
+server:
+  port: 8080
+spring:
+  application:
+    name: rule-engine
+logging:
+  level:
+    root: INFO
+    com.sabes.workflow.rule_engine: DEBUG
